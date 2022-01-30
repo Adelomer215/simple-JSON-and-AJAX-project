@@ -1,0 +1,13 @@
+{
+  "name": "Adel",
+  "age": 21,
+  "id": "001",
+  "available": true,
+  "address": ["a", "b"],
+  "skills": {
+    "html": "80%",
+    "css": "80%",
+    "js": "60%",
+    "react": "20%"
+  }
+}
